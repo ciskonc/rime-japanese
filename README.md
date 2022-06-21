@@ -1,5 +1,5 @@
 # rime-japanese
-
+# 基于个人习惯修改后的版本 主要 修改了 cho 到 kyo  chi 到 ci ji 到 字，还有按照个人习惯添加了一些快捷键
 ## About
 
 This is a layout for typing in Japanese 日本語. Supports words in all 3 scripts (Kanji, Hiragana, Katakana).
